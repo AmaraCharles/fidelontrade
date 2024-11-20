@@ -70,8 +70,51 @@
     </style>
 </head>
 
-<body class="dark-sidenav" data-new-gr-c-s-check-loaded="14.1207.0" data-gr-ext-installed="">
-        
+
+
+    
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" async></script>
+
+    
+<!-- End of .page_wrapper -->
+
+<!-- End of .page_wrapper -->
+
+
+
+ <div class="gtranslate_wrapper"></div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            try {
+                window.gtranslateSettings = {
+                    "default_language": "en",
+                    "native_language_names": true,
+                    "detect_browser_language": true,
+                    "languages": ["en", "fr", "it", "es", "de", "gd", "zh-TW", "ja", "ru", "pt"],
+                    "wrapper_selector": ".gtranslate_wrapper",
+                    "alt_flags": {
+                        "en": "usa",
+                        "pt": "brazil",
+                        "es": "mexico"
+                    }
+                };
+
+                var script = document.createElement('script');
+                script.src = "https://cdn.gtranslate.net/widgets/latest/float.js";
+                script.async = true;
+                script.onerror = function() {
+                    console.error('Error loading the GTranslate script.');
+                };
+                document.head.appendChild(script);
+            } catch (error) {
+                console.error('Error setting up GTranslate:', error);
+            }
+        });
+    </script>
+
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" async></script>
+
+<body class="dark-sidenav" data-new-gr-c-s-check-loaded="14.1207.0" data-gr-ext-installed="">        
     <!-- Left Sidenav -->
 <div class="left-sidenav">
     <!-- LOGO -->
@@ -215,9 +258,7 @@ $("#ccp").text(user.copytrading)
     <!-- Navbar -->
     <nav class="navbar-custom">
         <div class="float-right d-flex align-items-center">
-            <select name="langSel" class="langSel form-control h-auto px-2 py-1 border-0" style="height: 25px !important">
-                <option value="en" selected="">English</option>
-            </select>
+           
             <ul class="list-unstyled topbar-nav mb-0">
                 <li class="dropdown">
                     <a class="nav-link dropdown-toggle waves-effect waves-light nav-user" data-toggle="dropdown" href="livetrade.html#" role="button" aria-haspopup="false" aria-expanded="false"><span class="mx-3 nav-user-name hidden-sm" id="emailAbove"></span>

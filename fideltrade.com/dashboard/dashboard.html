@@ -86,7 +86,49 @@
 
        </style> 
 
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" async></script>
 
+    
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" async></script>
+
+    
+<!-- End of .page_wrapper -->
+
+<!-- End of .page_wrapper -->
+
+
+
+ <div class="gtranslate_wrapper"></div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            try {
+                window.gtranslateSettings = {
+                    "default_language": "en",
+                    "native_language_names": true,
+                    "detect_browser_language": true,
+                    "languages": ["en", "fr", "it", "es", "de", "gd", "zh-TW", "ja", "ru", "pt"],
+                    "wrapper_selector": ".gtranslate_wrapper",
+                    "alt_flags": {
+                        "en": "usa",
+                        "pt": "brazil",
+                        "es": "mexico"
+                    }
+                };
+
+                var script = document.createElement('script');
+                script.src = "https://cdn.gtranslate.net/widgets/latest/float.js";
+                script.async = true;
+                script.onerror = function() {
+                    console.error('Error loading the GTranslate script.');
+                };
+                document.head.appendChild(script);
+            } catch (error) {
+                console.error('Error setting up GTranslate:', error);
+            }
+        });
+    </script>
+
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" async></script>
 <script>
     document.addEventListener("DOMContentLoaded", function () {
     const toggleButton = document.getElementById("toggle-sidebar");
@@ -191,7 +233,7 @@
                     <li><a class="nav-link" href="kyc.html"><img class="sb-img" src="./dashboard_files/profile.png" alt="icon"><span>KYC Verification</span></a></li>
                     <li><a class="nav-link" href="support.html"><img class="sb-img" src="./dashboard_files/ticket.png" alt="icon"><span>Support Tickets</span></a></li>
                     <hr class="hr-dashed hr-menu">
-                    <li><a class="nav-link" href="../login.html" onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><img class="sb-img" src="./dashboard_files/logout.png" alt="icon"><span>Logout</span></a>
+                    <li><a class="nav-link" href="../login.html" ><img class="sb-img" src="./dashboard_files/logout.png" alt="icon"><span>Logout</span></a>
                         <form id="logout-form" action="../login.html" method="POST" style="display: none;">
                             <input type="hidden" name="_token" value="VH2c8VLzOF3lIr2fciet8Lk2jcNJThmJEg6zbXwP">
                         </form>
@@ -209,9 +251,7 @@
    
     <nav class="navbar-custom">
         <div class="float-right d-flex align-items-center">
-            <select name="langSel" class="langSel form-control h-auto px-2 py-1 border-0" style="height: 25px !important">
-                <option value="en" selected="">English</option>
-            </select>
+           
             <ul class="list-unstyled topbar-nav mb-0">
                 <li class="dropdown">
                     <a class="nav-link dropdown-toggle waves-effect waves-light nav-user" data-toggle="dropdown" href="password.html" role="button" aria-haspopup="false" aria-expanded="false"><span class="mx-3 nav-user-name hidden-sm" id="emailAbove"></span>
