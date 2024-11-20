@@ -1,358 +1,175 @@
-HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Mar 2024 16:02:17 at https://Fidelontrade.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-Fidelontrade.com
-(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://copytdmarkerts.com/ -O1 "C:\My Web Sites\copytd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-
-
-Information, Warnings and Errors reported for this mirror:
-
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-
-	such as username/password authentication for websites mirrored in this project
-Fidelontrade.comFidelontrade.com
-	do not share these files/folders if you want theseFidelontrade.commain privateFidelontrade.com
-Fidelontrade.comFidelontrade.com
-Fidelontrade.comFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:02:17	Warning: 	Cache: damaged cache, trying to Fidelontrade.comFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:02:17	Warning: 	Cache: 0 bytes successfully recoFidelontrade.comFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:02:17	Warning: 	Cache: error trying to open thFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https:Fidelontrade.comom/img/favicons/apple-touch-icon.png (from https://copytdmarkerts.com/)
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/favicons/favicon-32x32.png Fidelontrade.comtdmarkerts.com/)
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https:Fidelontrade.comom/img/favicons/favicon-16x16.png (from https://copytdmarkerts.com/)
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/favicons/favicon.ico (from https://Fidelontrade.com/)
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/favicons/safari-pinned-tab.svg (from https://copytdmarkerts.com/)Fidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/favicons/site.webmanifest (from https://copytdmarkerts.com/)Fidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/favicons/browserconfig.xml (from https://copytdmarkerts.com/)Fidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:03:17	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/favicon.png (from https://copytdmarkerts.com/)Fidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:30	Error: 	"Error when decompressing" (-1) atFidelontrade.comtdmarkerts.com/“https://www.smFidelontrade.com https://copytdmarkerts.com/)
-Fidelontrade.comFidelontrade.com
-16:05:39	Warning: 	Moved Permanently for https://coFidelontrade.comn/faq/Fidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:39	Warning: 	File has moved from https://copyFidelontrade.comfaq/ to https://copytdmarkerts.com/enFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:40	Warning: 	Moved Permanently for https://coFidelontrade.comn/about-us/Fidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:40	Warning: 	File has moved from https://copyFidelontrade.comabout-us/ to https://copytdmarkerts.comFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:41	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/platform.png (from https://copytdmarkeFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:41	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/platform-mobile.png (from https://copytdmaFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:43	Warning: 	Moved Permanently for https://coFidelontrade.comaq/Fidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:43	Warning: 	File has moved from https://copyFidelontrade.com/ to https://copytdmarkerts.com/faqFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/images/spritemap.svg (from https://copFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/NunitoSansReFidelontrade.comgular.eot (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/NunitoSansReguFidelontrade.comlar.eot? (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/NunitoSansReguFidelontrade.comlar.woff (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/NunitoSansReFidelontrade.comgular.ttf (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/OpenSansSemiBoFidelontrade.comld.eot (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/OpenSansSemFidelontrade.comiBold.eot? (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/OpenSansSemiBFidelontrade.comold.woff (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/themes/cabinet/fonts/OpenSansSemFidelontrade.comiBold.ttf (from https://copytdmarkerts.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/svg/icon-left.svg (from https://copyFidelontrade.comh/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/png/ic-eye.png (from https://copytdmarkerts.Fidelontrade.com.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/png/ic-eye@2x.png (from https://copytFidelontrade.com/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/png/icon-facebook.png (from https://Fidelontrade.com/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/png/icon-google.png (from https:/Fidelontrade.comm/auth/blank.min.css)
-Fidelontrade.comFidelontrade.com
-16:05:43	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Roboto-Thin.ttf (from https://copyFidelontrade.com/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Roboto-Thinitalic.ttf (from httpFidelontrade.com.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Robotolight.ttf (from https://Fidelontrade.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Roboto-Lightitalic.ttf (from hFidelontrade.comrts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Roboto-Italic.ttf (from httFidelontrade.coms.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Roboto-Mediumitalic.ttf (from Fidelontrade.comerts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Roboto-Bolditalic.ttf (from httFidelontrade.coms.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/fonts/Roboto-Blackitalic.ttf (from hFidelontrade.comrts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/arrow-green-right.svg (fFidelontrade.commarkerts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/youtube-white.svg (from https:Fidelontrade.comom/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/facebook-white.svg (from htFidelontrade.comts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/instagram-white.svg (from Fidelontrade.comerts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/twitter-white.svg (from https://copFidelontrade.coms/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/arrow-right-white.svg (from hFidelontrade.comrts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/arrow-contact.svg (from httpFidelontrade.com.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/online-learning.svg (from httFidelontrade.coms.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/mind.svg (from https://copytdmFidelontrade.comin.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/bubble-speak.svg (from https:/Fidelontrade.comm/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/skrill.svg (from https://copyFidelontrade.com/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/neteller.svg (from https://Fidelontrade.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/yandex.svg (from https://copFidelontrade.coms/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/webmoney.svg (from https://cFidelontrade.comcss/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/qiwi.svg (from https://copytdFidelontrade.comain.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/rupay.svg (from https://copytdmarFidelontrade.com.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/airtel.svg (from https:/Fidelontrade.comm/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/olamoney.svg (from https://copyFidelontrade.com/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/upi.svg (from https://copytdmarkeFidelontrade.comin.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/mobikwik.svg (from htFidelontrade.comts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/paytm.svg (from https://coFidelontrade.comss/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/bank_indian.svg (from https:Fidelontrade.comom/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/bni.svg (from https://copytdmarkerFidelontrade.comn.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/doku.svg (from https://copytdmarkFidelontrade.commin.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/mandiri.svg (from https:Fidelontrade.comom/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/danamon.svg (from https:Fidelontrade.comom/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/bank_indonesian.svg (fromFidelontrade.comkerts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/pix.svg (from https://copytdmarkFidelontrade.commin.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/paylivre.svg (from https://copytdmarFidelontrade.com.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/itau.svg (from https://copytdFidelontrade.comain.min.css?6)
-Fidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/maybank.svg (from https://copytdmarkerts.com/css/maFidelontrade.com
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkertsFidelontrade.com_bank.svg (from https:Fidelontrade.comom/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (40Fidelontrade.com/copytdmarkerts.com/img/icons/cimb.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-Fidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/hong_leon.svg (frFidelontrade.comarkerts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/public_bank.svg (from Fidelontrade.comerts.com/css/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/bank_malasia.svg (from Fidelontrade.comerts.com/css/main.min.css?6)
-Fidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/promptpay.svg (from https://copFidelontrade.coms/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://Fidelontrade.com/img/icons/bank_thailand.svg (from https://cFidelontrade.comcss/main.min.css?6)
-Fidelontrade.comFidelontrade.com
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/grabpay.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/gcash.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/paymaya.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/coins_ph.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/momo.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/bank_vietnam.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/yomoney.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/fkwallet.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/piastrix.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/analytics.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/diagram.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/graph.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/award.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/rocket.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/businessman.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/youtube.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/facebook.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/instagram.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/twitter.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-dark-down.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-white-down.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/english.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/russia.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/portugal.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/spain.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/italian.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/poland.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/france.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/deutsch.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/indonesian.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/ukraine.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/china.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/turkey.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/india.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/iran.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/thailand.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/saudi.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/vietnam.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/malay.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/philippines.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/brazil.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/japan.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/countries/bangladesh.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/article.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/video.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/facebook-color.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/google-color.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/vk-color.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/facebook-login.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/google.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/vk.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/error.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/tw-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/tg-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/inst-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/fb-blue.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-dark-left.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-dark-right.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-green-up.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/arrow-red-down.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/quotex_logo.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/quotex_logo-white-mobile.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/alert.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/quote.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/to-top.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/plainCon.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/icons/beforecontact.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/about-us-modern-mobile.png (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/about-us-problem-quotes.svg (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/about-us-innovation-mobile.png (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/img/main/appendix-bg.png (from https://copytdmarkerts.com/css/main.min.css?6)
-
-16:05:44	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ../img/favicon.png (from https://copytdmarkerts.com/login)
-
-16:05:44	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/assets/images/seo/62e1644a6eaf71658938442.jpeg (from https://copytdmarkerts.com/login)
-
-16:05:51	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/assets/templates/basic/newfront/png/header-bg-3.png (from https://copytdmarkerts.com/login)
-
-16:05:51	Error: 	"Error when decompressing" (-1) at link https://copytdmarkerts.com/en/faq (from https://copytdmarkerts.com/en/faq/)
-
-16:05:51	Error: 	"Error when decompressing" (-1) at link https://copytdmarkerts.com/en/about-us (from https://copytdmarkerts.com/en/about-us/)
-
-16:05:51	Warning: 	Link https://copytdmarkerts.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
-
-16:05:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ../img/favicon.png (from https://copytdmarkerts.com/login)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/auth/aos.css (from https://copytdmarkerts.com/auth/app.css)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/auth/png/crypto.png (from https://copytdmarkerts.com/auth/app.css)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/png/bg-sale-1.png (from https://copytdmarkerts.com/auth/app.css)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/png/bg-couter.png (from https://copytdmarkerts.com/auth/app.css)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/png/arrow-down.png (from https://copytdmarkerts.com/auth/app.css)
-
-16:05:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ../img/favicon.png (from https://copytdmarkerts.com/login)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/eot/icomoon3f14.eot?422y2y (from https://copytdmarkerts.com/auth/style.css)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/ttf/icomoon3f14.ttf?422y2y (from https://copytdmarkerts.com/auth/style.css)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/woff/icomoon3f14.woff?422y2y (from https://copytdmarkerts.com/auth/style.css)
-
-16:05:55	Error: 	"Not Found" (404) at link https://copytdmarkerts.com/svg/icomoon3f14.svg?422y2y (from https://copytdmarkerts.com/auth/style.css)
-
-
-
-HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 38 seconds : 227 links scanned, 65 files written (4018354 bytes overall) [2843861 bytes received at 13045 bytes/sec], 3383512 bytes transferred using HTTP compression in 195 files, ratio 30%, 14.0 requests per connection
-
-(156 errors, 12 warnings, 0 messages)
-
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Nov 2024 19:50:08 at https://bnbcopytrading.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bnbcopytrading.com -O1 "C:\webby\newone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/favicons/apple-touch-icon.png (from https://bnbcopytrading.com/)
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/favicons/favicon-32x32.png (from https://bnbcopytrading.com/)
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/favicons/favicon-16x16.png (from https://bnbcopytrading.com/)
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/favicons/favicon.ico (from https://bnbcopytrading.com/)
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/favicons/safari-pinned-tab.svg (from https://bnbcopytrading.com/)
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/favicons/site.webmanifest (from https://bnbcopytrading.com/)
+19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/favicons/browserconfig.xml (from https://bnbcopytrading.com/)
+19:52:13	Warning: 	Moved Permanently for https://bnbcopytrading.com/en/faq/
+19:52:13	Warning: 	File has moved from https://bnbcopytrading.com/en/faq/ to https://bnbcopytrading.com/en/faq
+19:52:13	Warning: 	Moved Permanently for https://bnbcopytrading.com/en/about-us/
+19:52:13	Warning: 	File has moved from https://bnbcopytrading.com/en/about-us/ to https://bnbcopytrading.com/en/about-us
+19:52:18	Warning: 	Moved Permanently for https://bnbcopytrading.com/faq/
+19:52:18	Warning: 	File has moved from https://bnbcopytrading.com/faq/ to https://bnbcopytrading.com/faq
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/images/spritemap.svg (from https://bnbcopytrading.com/)
+19:52:18	Error: 	"Error when decompressing" (-1) at link https://bnbcopytrading.com/“https://www.smartsupp.com” (from https://bnbcopytrading.com/)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.eot (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.woff (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/NunitoSansRegular/NunitoSansRegular.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.eot (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.woff (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/themes/cabinet/fonts/OpenSansSemiBold/OpenSans-SemiBold.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/svg/icon-left.svg (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/ic-eye.png (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/ic-eye@2x.png (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/icon-facebook.png (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/icon-google.png (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Roboto-Thin.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Roboto-Thinitalic.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Robotolight.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Roboto-Lightitalic.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Roboto-Italic.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Roboto-Mediumitalic.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Roboto-Bolditalic.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/fonts/Roboto-Blackitalic.ttf (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-green-right.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/youtube-white.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/facebook-white.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/instagram-white.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/twitter-white.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-right-white.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-contact.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/online-learning.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/mind.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bubble-speak.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/skrill.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/neteller.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/yandex.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/webmoney.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/qiwi.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/rupay.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/airtel.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/olamoney.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/upi.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/mobikwik.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/paytm.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bank_indian.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bni.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/doku.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/mandiri.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/danamon.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bank_indonesian.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/pix.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/paylivre.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/itau.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/maybank.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/rhb_bank.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/cimb.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/hong_leon.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/public_bank.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bank_malasia.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/promptpay.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bank_thailand.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/grabpay.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/gcash.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/paymaya.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/coins_ph.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/momo.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/bank_vietnam.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/yomoney.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/fkwallet.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/piastrix.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/analytics.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/diagram.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/graph.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/award.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/rocket.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/businessman.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/youtube.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/facebook.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/instagram.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/twitter.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-dark-down.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-white-down.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/english.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/russia.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/portugal.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/spain.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/italian.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/poland.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/france.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/deutsch.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/indonesian.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/ukraine.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/china.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/turkey.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/india.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/iran.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/thailand.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/saudi.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/vietnam.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/malay.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/philippines.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/brazil.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/japan.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/countries/bangladesh.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/article.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/video.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/facebook-color.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/google-color.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/vk-color.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/facebook-login.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/google.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/vk.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/error.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/tw-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/tg-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/inst-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/fb-blue.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-dark-left.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-dark-right.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-green-up.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/arrow-red-down.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/quotex_logo.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/quotex_logo-white-mobile.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/alert.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/quote.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/to-top.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/plainCon.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/beforecontact.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/about-us-modern-mobile.png (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/about-us-problem-quotes.svg (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/about-us-innovation-mobile.png (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/main/appendix-bg.png (from https://bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/css/img/Union.png (from https://bnbcopytrading.com/css/custom.css)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/hero.svg (from https://bnbcopytrading.com/about)
+19:52:18	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ../img/favicon.png (from https://bnbcopytrading.com/login)
+19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/assets/images/seo/62e1644a6eaf71658938442.jpeg (from https://bnbcopytrading.com/login)
+19:52:22	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/assets/templates/basic/newfront/png/header-bg-3.png (from https://bnbcopytrading.com/login)
+19:52:22	Error: 	"Error when decompressing" (-1) at link https://bnbcopytrading.com/en/faq (from https://bnbcopytrading.com/en/faq/)
+19:52:22	Error: 	"Error when decompressing" (-1) at link https://bnbcopytrading.com/en/about-us (from https://bnbcopytrading.com/en/about-us/)
+19:52:22	Warning: 	Link https://bnbcopytrading.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:52:22	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ../img/favicon.png (from https://bnbcopytrading.com/login)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/auth/aos.css (from https://bnbcopytrading.com/auth/app.css)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/auth/png/crypto.png (from https://bnbcopytrading.com/auth/app.css)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/bg-sale-1.png (from https://bnbcopytrading.com/auth/app.css)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/bg-couter.png (from https://bnbcopytrading.com/auth/app.css)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/png/arrow-down.png (from https://bnbcopytrading.com/auth/app.css)
+19:52:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ../img/favicon.png (from https://bnbcopytrading.com/login)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/eot/icomoon3f14.eot?422y2y (from https://bnbcopytrading.com/auth/style.css)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/ttf/icomoon3f14.ttf?422y2y (from https://bnbcopytrading.com/auth/style.css)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/woff/icomoon3f14.woff?422y2y (from https://bnbcopytrading.com/auth/style.css)
+19:52:25	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/svg/icomoon3f14.svg?422y2y (from https://bnbcopytrading.com/auth/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 17 seconds : 251 links scanned, 90 files written (5355035 bytes overall) [3585047 bytes received at 26168 bytes/sec], 4289632 bytes transferred using HTTP compression in 214 files, ratio 29%, 15.5 requests per connection
+(155 errors, 9 warnings, 0 messages)

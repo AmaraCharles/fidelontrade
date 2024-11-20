@@ -10,6 +10,10 @@
       <link rel="shortcut icon" href="https://marketinvestrade.com/images/favicon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.0/css/all.min.css" integrity="sha512-9xKTRVabjVeZmc+GUW8GgSmcREDunMM+Dt/GrzchfN8tkwHizc5RP4Ok/MXFFy5rIjJjzhndFScTceq5e6GvVQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://marketinvestrade.com/dash/plugins/jvectormap/jquery-jvectormap-2.0.2.css%22%20rel=%22stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js" integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     <!-- App css -->
     <link href="./livetrade_files/custom.css" rel="stylesheet" type="text/css">
     <link href="./livetrade_files/dashboard.css" rel="stylesheet" type="text/css">
@@ -24,9 +28,9 @@
     <link href="./livetrade_files/jquery.steps.css" rel="stylesheet">
     <link href="./livetrade_files/mastercard.css" rel="stylesheet" type="text/css">
     <link href="./livetrade_files/app.min.css" rel="stylesheet" type="text/css">
-    <link href="./livetrade_files/sweetalert2.min.css" rel="stylesheet" type="text/css">
+    
     <link href="./livetrade_files/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" charset="utf-8" async="" src="./livetrade_files/loader.js.download"></script><script src="./livetrade_files/sweetalert2.min.js.download"></script>
+    <script type="text/javascript" charset="utf-8" async="" src="./livetrade_files/loader.js.download"></script>
     <!-- Smartsupp Live Chat script -->
     <script type="text/javascript">
         var _smartsupp = _smartsupp || {};
@@ -412,7 +416,7 @@ $("#ccp").text(user.copytrading)
         </div>
         <div style="display: flex;justify-content:center;align-items:center;height:80vh;position: relative;">
             <video controls="" src="/dash/live-trade.mp4" style="width: 100%;box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;"></video>
-            <a href="https://marketinvestrade.com/user/trade" class="button bounce">
+            <a href="#" onclick="tellthem(this)" class="button bounce">
                 Start live Trading
             </a>
         </div>
@@ -555,7 +559,30 @@ $("#ccp").text(user.copytrading)
     <!--end modal-dialog-->
 </div>
 <!--end modal-->
+<script>
 
+
+    function tellthem(element) {
+        event.preventDefault()
+        var user=localStorage.getItem("user")
+        
+        var parsedUser=JSON.parse(user)
+
+        console.log(parsedUser);
+       
+        swal({
+                                     title: "Notice!",
+                                     text: "You are not eligible to view livestream of ongoing trade. Kindly contact your trader or support",
+                                     type:"success",
+                                     timer:3000,
+                                    })
+
+
+
+    }
+
+
+</script>
 
     <div class="modal fade" id="er20-fund-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
@@ -689,7 +716,7 @@ $("#ccp").text(user.copytrading)
     
 
     <!-- jQuery  -->
-    <script src="./livetrade_files/jquery.min.js.download"></script>
+    <!-- <script src="./livetrade_files/jquery.min.js.download"></script> -->
     <script src="./livetrade_files/bootstrap.bundle.min.js.download"></script>
     <script src="./livetrade_files/toaster.js.download"></script>
     <script src="./livetrade_files/custom.js.download"></script>
