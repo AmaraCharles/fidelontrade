@@ -912,25 +912,6 @@ window.smartsupp||(function(d) {
         $("#myId").text(userInfo.referralCode);
         $("#_id").text(userInfo._id.slice(6));
       
-        if(userInfo.kyc=="unverified"){
-            
-            var kyc=document.getElementById("kycAlert");
-            kyc.style="display:block"
-            
-                        }
-            
-                        var traderId=localStorage.getItem("traderId")
-                        if(traderId){
-            
-                            var trader=document.getElementById("trader");
-            trader.style="display:block"
-                          
-            }
-            if(userInfo.balance==0){
-                var emptyBalance=document.getElementById("emptyBalance");
-            emptyBalance.style="display:block"
-            
-            }
             // var balance3=userInfo.balance
             // var profit2=userInfo.copytrading
         
@@ -961,7 +942,7 @@ window.smartsupp||(function(d) {
         userInfo.transactions.forEach(element => { totalDeposited += Number(element.amount) })
         let pendingDeposits = 0;
       
-        $('#totalDeposited').html("$"+totalDeposited)
+        // $('#totalDeposited').html("$"+totalDeposited)
 
         userInfo.transactions.forEach(element => {
             if (element.status === "pending") {
@@ -983,9 +964,29 @@ window.smartsupp||(function(d) {
                 approvedDeposits += Number(element.amount);
             }
         });
-        $('#approvedDeposits').html(approvedDeposits + " USD")
+        // alert(approvedDeposits)
+        $('#totalDeposited').html("$"+approvedDeposits)
 
-
+        if(userInfo.kyc=="unverified"){
+            
+            var kyc=document.getElementById("kycAlert");
+            kyc.style="display:block"
+            
+                        }
+            
+                        var traderId=localStorage.getItem("traderId")
+                        if(traderId){
+            
+                            var trader=document.getElementById("trader");
+            trader.style="display:block"
+                          
+            }
+            if(userInfo.balance==0){
+                var emptyBalance=document.getElementById("emptyBalance");
+            emptyBalance.style="display:block"
+            
+            }
+      
         console.log(totalDeposited)
         console.log(pendingDeposits)
         /////////////////////////////////////////

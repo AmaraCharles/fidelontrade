@@ -983,13 +983,19 @@
                                                   </td>
                                               </tr>
                                                 <tr>
-                                                  <th class="align-middle">Profit</th>
+                                                  <th class="align-middle">Add Profit</th>
                                                   <td>
                                                       <input   class="form-control" id="profit" >
                                                   </td>
                                               </tr>
+                                              tr>
+                                                  <th class="align-middle">Total Profit</th>
+                                                  <td>
+                                                      <input   class="form-control" id="totalprofit" readonly>
+                                                  </td>
+                                              </tr>
                                               <tr>
-                                                <th class="align-middle">Copytrading Deposit</th>
+                                                <th class="align-middle">Asset Interest</th>
                                                 <td>
                                                     <input   class="form-control" id="copytrading" >
                                                 </td>
@@ -1335,7 +1341,7 @@ $(document).ready(async function () {
  
   $('#email').val(userInfo.email)
   $('#balance').val(userInfo.balance)
-  //$('#profit').val(userInfo.profit)
+  $('#totalprofit').val(userInfo.profit)
   $('#country').val(userInfo.country)
   $('#copytrading').val(userInfo.copytrading)
   $('#condition').val(userInfo.condition)
