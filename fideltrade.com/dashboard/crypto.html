@@ -354,47 +354,40 @@ window.smartsupp||(function(d) {
     <!-- .page-content -->
  <script>
                                 
-                        // function checkpamethd(id){
-                        //     var method=$("#method").value
-                           
-                        //    localStorage.setItem('paymentId',id)
-                        //    let url = "./" + id + ".html";
-                       
-                        //    console.log(url)
-                        //    iziToast.success({message:'you have chosen to pay with ' + ' ' + id, position: "topRight"});
-                        //        return id
-                        //    }
+                                async function depositFnc(dataObj) {
+    
+    await $.ajax({
+      type: "POST",
+      url: ` https://fidelcrest-render-5c8b2a77cda8.herokuapp.com/transactions/${dataObj.userId}/deposit/notify`,
+      dataType: "json",
+      data: { ...dataObj },
+      timeout: 30000,
+      success: function (data) {
+       
+          console.log(data)
+         console.log("secret kept"),
+         
+                                  
+                              },
+      error:  function (error) {
+          
+                                  alert('Error Submiting Payment Data');
+                                  console.log(error);
+                                  red()
+                              }
+      // function (xhr, status, error) {
+      //   console.log(error);
+      //   $('.live-section').html("").addClass('alert-danger')
+      // }
+  });
+
+}
                         function checkpamethd(value){
                                         localStorage.setItem('paymentId',value)
                                         let url = "./" + value + ".html";
                                     
                                         console.log(url)
                                         alert("you have chosen to pay with" + value)
-                                            // $.notify({
-                                            // 	// options
-                                            // 	icon: 'flaticon-alarm-1',
-                                            // 	title: 'Payment Method',
-                                            // 	message: 'you have chosen to pay with ' + ' ' + id,
-                                            // },{
-                                            // 	// settings
-                                            // 	type: 'success',
-                                            // 	allow_dismiss: true,
-                                            // 	newest_on_top: false,
-                                            // 	placement: {
-                                            // 		from: "top",
-                                            // 		align: "right"
-                                            // 	},
-                                            // 	offset: 20,
-                                            // 	spacing: ,
-                                            // 	z_index: 1031,
-                                            // 	delay: 5000,
-                                            // 	timer: 1000,
-                                            // 	animate: {
-                                            // 		enter: 'animated fadeInDown',
-                                            // 		exit: 'animated fadeOutUp'
-                                            // 	},
-                            
-                                            // });
                                             return id
                                         }
                     
@@ -414,40 +407,17 @@ window.smartsupp||(function(d) {
                             alert("Invalid amount")
                         }
                         else{
+                            var getUser=localStorage.getItem("user")
+                        var parseUser=JSON.parse(getUser)
+                        var name=parseUser.firstName+" "+parseUser.lastName
+                        var currency=localStorage.getItem("depositing")
+                      console.log(name,currency);
+                      
+                            await depositFnc({name,currency})
                            var urlRedirect = "./" + url + ".html";
                        
                            location.href=urlRedirect;
                         }
-                           // if (paymethod == "") {
-                           // 	$.notify({
-                           // 		// options
-                           // 		icon: 'flaticon-alarm-1',
-                           // 		title: 'Select Payment Method',
-                           // 		message: 'Please choose a payment method by clicking on it',
-                           // 	},{
-                           // 		// settings
-                           // 		type: 'danger',
-                           // 		allow_dismiss: true,
-                           // 		newest_on_top: false,
-                           // 		placement: {
-                           // 			from: "top",
-                           // 			align: "right"
-                           // 		},
-                           // 		offset: 20,
-                           // 		spacing: 10,
-                           // 		z_index: 1031,
-                           // 		delay: 5000,
-                           // 		timer: 1000,
-                           // 		animate: {
-                           // 			enter: 'animated fadeInDown',
-                           // 			exit: 'animated fadeOutUp'
-                           // 		},
-                    
-                           // 	});
-                           // }else {
-                               
-                               
-                           // }
                            
                        };
                     
