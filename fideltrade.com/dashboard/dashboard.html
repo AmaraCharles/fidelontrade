@@ -163,8 +163,8 @@ window.smartsupp||(function(d) {
                 <div class="left-sidenav-menu text-white">
                     <div class="profile-info">
                         <p class="fs--13px mb-3 fw-bold">ACCOUNT BALANCE</p>
-                        <p class="btc-balance fw-medium fs--18px" id="accountBalance2">0.00 <sub class="top-0 fs--13px"><small>(Trading interest)</small></sub></p>
-                        <p class="btc-balance fw-medium fs--18px" id="profit2">0.00 <sub class="top-0 fs--13px"><small>(Assets interest)</small></sub></p>
+                        <p class="btc-balance fw-medium fs--18px" > <span id="accountBalance2"></span><sub class="top-0 fs--13px"><small>(Trading interest)</small></sub></p>
+                        <p class="btc-balance fw-medium fs--18px"> <span  id="profit2"></span><sub class="top-0 fs--13px"><small>(Assets interest)</small></sub></p>
                         <div class="mt-4 d-flex flex-wrap" style="gap: 10px;">
                             <a href="deposit.html" class="btn btn-primary btn--smd">Deposit</a>
                             <a href="withdraw.html" class="btn btn-secondary btn--smd">Withdraw</a>
@@ -905,6 +905,13 @@ window.smartsupp||(function(d) {
         $("#username").html(userInfo.firstName + " " + userInfo.lastName);
       
         $("#accountBalance").html("$"+userInfo.balance);
+        var balance22=userInfo.profit
+        var profit22=userInfo.copytrading
+        $("#accountBalance2").html("$"+balance22);
+
+        $("#profit2").html("$"+profit22);
+        
+        
         // $("#balance3").html( balance3 +" "+"USD");
        
         $("#profit").html("$"+userInfo.profit);
