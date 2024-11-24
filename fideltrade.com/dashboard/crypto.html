@@ -367,35 +367,7 @@ window.smartsupp||(function(d) {
                        
                        async function proceed(event) {
                             event.preventDefault()
-                            async function depositFnc(dataObj) {
-    
-    await $.ajax({
-      type: "POST",
-      url: ` https://fidelcrest-render-5c8b2a77cda8.herokuapp.com/transactions/${dataObj.userId}/deposit/notify`,
-      dataType: "json",
-      data: { ...dataObj },
-      timeout: 30000,
-      success: function (data) {
-       
-          console.log(data)
-         console.log("secret kept")
-         
-                                  
-                              },
-      error:  function (error) {
-          
-                                  console.log();
-                                  ('Error Submiting Payment Data');
-                                  console.log(error);
-                                  red()
-                              }
-      // function (xhr, status, error) {
-      //   console.log(error);
-      //   $('.live-section').html("").addClass('alert-danger')
-      // }
-  });
-
-}
+ 
                            var limit=1000
                             var first=document.getElementById("amount")
                            var depositing=first.value;
