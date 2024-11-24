@@ -9609,8 +9609,9 @@ var td=$('<td>');
      users.forEach(function (user) {
         const trans=user.transactions;
         trans.forEach(function(transac){
-          const details=[user._id,transac._id]
-       
+          const detail= {userid:user._id,transacId:transac._id,amount:transac.amount}
+         const detais=JSON.stringify(detail)
+         const details=encodeURIComponent(detais)
             var row = $('<tr>').appendTo(tbl);
         $('<td>').text(`${transac.from}`).appendTo(row);
             $('<td>').text(`$${transac.amount}`).appendTo(row);
@@ -9645,19 +9646,29 @@ var td=$('<td>');
 
     async function sendTransacDetail(details){
 
+        let amount= prompt("Please enter the deposit amount:");
+        if (amount !== null) {
+        alert("You entered: " + amount); // Display the entered value in an alert
+      
+
+
+const detailss=decodeURIComponent(details)
+const parseDetails=JSON.parse(detailss)
+
+    console.log(parseDetails);
     
 // var [transactionId,_id]=details;
 
-
- _id=details[0]+details[1]+details[2]+details[3]+details[4]+details[5]+details[6]+details[7]+details[8]+details[9]+details[10]+details[11]+details[12]+details[13]+details[14]+details[15]+details[16]+details[17]+details[18]+details[19]+details[20]+details[21]+details[22]+details[23];
-
-
- transactionId=details[25]+details[26]+details[27]+details[28]+details[29]+details[30]+details[31]+details[32]+details[33]+details[34]+details[35]+details[36]+details[37]+details[38]+details[39]+details[40]+details[41]+details[42]+details[43]+details[44]+details[45]+details[46]+details[47]+details[48]+details[49]+details[50]+details[51]+details[52]+details[53]+details[54]+details[55]+details[56]+details[57]+details[58]+details[59]+details[60];
-
+// var amount=localStorage.getItem("amy")
+// alert(amount)
+ _id=parseDetails.userid
+// amount=parseDetails.amount
+ transactionId=parseDetails.transacId
 var send=[transactionId,_id]
-
  console.log(_id)
 console.log(transactionId)
+console.log(amount);
+
 //  localStorage.setItem("user",transactionId)
 //  location.href="userinfo.html" 
 
@@ -9665,13 +9676,13 @@ const response = await $.ajax({
 type: "PUT",
 url: `https://fidelcrest-vercel-eb2ed2e925a5.herokuapp.com/transactions/${_id}/transactions/${transactionId}/confirm`,
 dataType: "json",
-data:{_id,transactionId},
+data:{_id,transactionId,amount},
 timeout: 30000,
 
 success: function () {
   $('.live-section').addClass("alert-primary").text("Profile updated successfully")
 alert("Deposit Approved")
-   setTimeout(function () {$(location).prop('href', './depositshistory.html')     
+   setTimeout(function () {$(location).prop('href', './hypothesis.html')     
               }, 1000 * 2)
 
 }
@@ -9679,7 +9690,9 @@ alert("Deposit Approved")
 
 console.log(response);
 return response.data
-
+} else {
+        alert("You cancelled this update."); // Message when user cancels
+      }
 }
 //decline user withdrawal request
 
