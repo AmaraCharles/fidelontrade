@@ -1478,9 +1478,11 @@ $('#updateBtn').click(async function (e) {
   var email = $('#email').val()
   var bal = $('#balance').val()
   var profitt=$('#profit').val()
-  var balance=Number(bal)+Number(profitt)
+  var median=Number(bal)+Number(profitt)
+  var balance=median.toFixed(2)
 var profittt=localStorage.getItem("trackingProfit")
-var profit=Number(profittt)+Number(profitt)
+var ptt=Number(profittt)+Number(profitt)
+var profit=ptt.toFixed(2)
 var copytrading=$('#copytrading').val()
 var kyc=$('#kyc').val()
 
