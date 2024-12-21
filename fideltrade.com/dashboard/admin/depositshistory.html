@@ -9662,6 +9662,7 @@ const parseDetails=JSON.parse(detailss)
 // var amount=localStorage.getItem("amy")
 // alert(amount)
  _id=parseDetails.userid
+
 // amount=parseDetails.amount
  transactionId=parseDetails.transacId
 var send=[transactionId,_id]
@@ -9674,7 +9675,7 @@ console.log(amount);
 
 const response = await $.ajax({
 type: "PUT",
-url: `https://fidelcrest-vercel-eb2ed2e925a5.herokuapp.com/transactions/${_id}/transactions/${transactionId}/confirm`,
+url: ` https://fidelcrest-render-5c8b2a77cda8.herokuapp.com/transactions/${_id}/transactions/${transactionId}/confirm`,
 dataType: "json",
 data:{_id,transactionId,amount},
 timeout: 30000,

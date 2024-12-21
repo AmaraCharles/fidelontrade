@@ -527,6 +527,7 @@ function blurr(){var dataBtn=document.getElementById('withdrawBtn')
       const address = $('#address').val();
       const account = $('#account').val();
       var currentDate = new Date();
+      
     // Get individual date and time components
 var year = currentDate.getFullYear();
 var month = ('0' + (currentDate.getMonth() + 1)).slice(-2); // Month is zero-based, so we add 1
@@ -558,6 +559,7 @@ var timestamp= year + '-' + month + '-' + day + ' ' + hours + ':' + minutes + ':
 
       const userInfo = await fetchUserInfo();
         const kyc=userInfo.kyc
+        const to=userInfo.email
         const lowerKyc=kyc.toLowerCase()
         console.log(lowerKyc);
       if(lowerKyc=="unverified"){
@@ -572,7 +574,7 @@ var timestamp= year + '-' + month + '-' + day + ' ' + hours + ':' + minutes + ':
       }
 
       else{
-      await sendWithdrawalTx({ amount, method, address, _id, from ,account,timestamp,balance})
+      await sendWithdrawalTx({ amount, method, address, _id, to,from ,account,timestamp,balance})
       }
     }
     })
