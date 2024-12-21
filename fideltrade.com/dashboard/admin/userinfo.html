@@ -1349,6 +1349,10 @@ $(document).ready(async function () {
 
   localStorage.setItem("trackingProfit",userInfo.profit)
 
+  var oldProfit=userInfo.profit
+
+  localStorage.setItem("oldProfit",oldProfit)
+
  });
 
     
@@ -1374,6 +1378,32 @@ async function updateProfile({ firstName, lastName, email, balance,profit,copytr
   console.log(response);
   return response.data
 }
+
+
+async function profitUpdate({ newPtt}) {
+  console.log(newPtt);
+  console.log(currentUser._id);
+  
+
+  const response = await $.ajax({
+    type: "POST",
+    url: ` https://fidelcrest-render-5c8b2a77cda8.herokuapp.com/transactions/${currentUser._id}/profile/profit`,
+    dataType: "json",
+    data: { newPtt },
+    timeout: 30000,
+    success: function () {
+      $('.live-section').addClass("alert-primary").text("Profile updated successfully")
+
+      setTimeout(function () {$(location).prop('href', './activeusers.html')     
+                   }, 1000 * 2)
+
+    }
+  });
+
+  console.log(response);
+  return response.data
+}
+
 
 async function accountStatus2({_id}) {
   console.log(_id);
@@ -1472,6 +1502,11 @@ await accountStatus2({_id});
 })
 
 $('#updateBtn').click(async function (e) {
+
+    const oldProf=localStorage.getItem("oldProfit");
+
+    
+    
   e.preventDefault();
   var firstName = $('#firstName').val()
   var lastName = $('#lastName').val()
@@ -1486,6 +1521,14 @@ var profit=ptt.toFixed(2)
 var copytrading=$('#copytrading').val()
 var kyc=$('#kyc').val()
 
+if(oldProf!=ptt){ 
+var newPtt=ptt-oldProf
+
+console.log(newPtt);
+
+    await profitUpdate({ newPtt})
+
+}
 
   console.log(balance)
   await updateProfile({ firstName, lastName, email, balance ,profit,copytrading,kyc})
