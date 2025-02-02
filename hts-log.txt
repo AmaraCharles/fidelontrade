@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Nov 2024 19:50:08 at https://Marketinvestrade.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Nov 2024 19:50:08 at https://marketinvestrade.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 Marketinvestrade
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bnbcopytrading.com -O1 "C:\webby\newone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
@@ -22,11 +22,11 @@ Marketinvestrade
 MarketinvestradeMarketinvestrade
 19:50:36	Error: 	"Not Found" (404) at link https://bnbcopytradingMarketinvestradeons/favicon.ico (from https://bnbcopytrading.coMarketinvestrade
 MarketinvestradeMarketinvestrade
-19:50:36	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/favicons/safari-pinned-tab.svg (from https://bnbcopytrading.com/)Marketinvestrade
+19:50:36	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/favicons/safari-pinned-tab.svg (from https://bnbcopytrading.com/)Marketinvestrade
 MarketinvestradeMarketinvestrade
-19:50:36	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/favicons/site.webmanifest (from https://bnbcopytrading.com/)Marketinvestrade
+19:50:36	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/favicons/site.webmanifest (from https://bnbcopytrading.com/)Marketinvestrade
 MarketinvestradeMarketinvestrade
-19:50:36	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/favicons/browserconfig.xml (from https://bnbcopytrading.com/)Marketinvestrade
+19:50:36	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/favicons/browserconfig.xml (from https://bnbcopytrading.com/)Marketinvestrade
 MarketinvestradeMarketinvestrade
 19:52:13	Warning: 	Moved Permanently for https://bnMarketinvestradeom/en/faq/Marketinvestrade
 MarketinvestradeMarketinvestrade
@@ -40,135 +40,135 @@ MarketinvestradeMarketinvestrade
 MarketinvestradeMarketinvestrade
 19:52:18	Warning: 	File has moved from https://bnbcMarketinvestrade/faq/ to https://bnbcopytrading.com/faqMarketinvestrade
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/images/spritemap.svg (from https://bnbMarketinvestradem/)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/images/spritemap.svg (from https://bnbMarketinvestradem/)
 MarketinvestradeMarketinvestrade
 19:52:18	Error: 	"Error when decompressing" (-1) atMarketinvestradebnbcopytrading.com/“https://www.smartsupp.com” (froMarketinvestradeopytrading.com/)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/NunitoSansRegular/NuniMarketinvestradeeot (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/NunitoSansRegular/NuniMarketinvestradeeot (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/NunitoSansRegular/NunMarketinvestrade.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/NunitoSansRegular/NunMarketinvestrade.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/NunitoSansRegular/NunMarketinvestrade.woff (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/NunitoSansRegular/NunMarketinvestrade.woff (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/NunitoSansReMarketinvestradensRegular.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/NunitoSansReMarketinvestradensRegular.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/OpenSansSemiBoMarketinvestrademiBold.eot (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/OpenSansSemiBoMarketinvestrademiBold.eot (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/OpenSansSemiBoMarketinvestrademiBold.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/OpenSansSemiBoMarketinvestrademiBold.eot? (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/OpenSansSemiMarketinvestradeSemiBold.woff (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/OpenSansSemiMarketinvestradeSemiBold.woff (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/themes/cabinet/fonts/OpenSansSemiBoMarketinvestrademiBold.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/themes/cabinet/fonts/OpenSansSemiBoMarketinvestrademiBold.ttf (from https://bnbcopytrading.com/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/svg/icon-left.svg (from https://Marketinvestrade.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/svg/icon-left.svg (from https://marketinvestrade.net/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/png/ic-eye.png (from https://bnbcoMarketinvestradeauth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/png/ic-eye.png (from https://bnbcoMarketinvestradeauth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/png/ic-eye@2x.png (from https://Marketinvestrade.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/png/ic-eye@2x.png (from https://marketinvestrade.net/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/png/icon-facebook.png (from https://Marketinvestrade.com/auth/blank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/png/icon-facebook.png (from https://marketinvestrade.net/auth/blank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/png/icon-google.png (from https://bnbcopytraMarketinvestradeblank.min.css)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/png/icon-google.png (from https://bnbcopytraMarketinvestradeblank.min.css)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Roboto-Thin.ttf (from https://bMarketinvestradecom/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Roboto-Thin.ttf (from https://bMarketinvestradecom/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Roboto-Thinitalic.ttf (from htMarketinvestraderading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Roboto-Thinitalic.ttf (from htMarketinvestraderading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Robotolight.ttf (from httpsMarketinvestradeing.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Robotolight.ttf (from httpsMarketinvestradeing.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Roboto-Lightitalic.ttf (from httpsMarketinvestradeing.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Roboto-Lightitalic.ttf (from httpsMarketinvestradeing.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Roboto-Italic.ttf (from https://Marketinvestrade.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Roboto-Italic.ttf (from https://marketinvestrade.net/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Roboto-Mediumitalic.ttf (from Marketinvestradeytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Roboto-Mediumitalic.ttf (from Marketinvestradeytrading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Roboto-Bolditalic.ttf (from htMarketinvestraderading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Roboto-Bolditalic.ttf (from htMarketinvestraderading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/fonts/Roboto-Blackitalic.ttf (froMarketinvestradeopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/fonts/Roboto-Blackitalic.ttf (froMarketinvestradeopytrading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/arrow-green-right.svg (froMarketinvestradeopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/arrow-green-right.svg (froMarketinvestradeopytrading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/youtube-white.svg (from httMarketinvestradeading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/youtube-white.svg (from httMarketinvestradeading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/facebook-white.svg (from hMarketinvestradetrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/facebook-white.svg (from hMarketinvestradetrading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/instagram-white.svg (froMarketinvestradeopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/instagram-white.svg (froMarketinvestradeopytrading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/twitter-white.svg (from https:Marketinvestradeng.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/twitter-white.svg (from https:Marketinvestradeng.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/arrow-right-white.svg (fromMarketinvestradepytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/arrow-right-white.svg (fromMarketinvestradepytrading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/arrow-contact.svg (from htMarketinvestraderading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/arrow-contact.svg (from htMarketinvestraderading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/online-learning.svg (from https://bMarketinvestradecom/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/online-learning.svg (from https://bMarketinvestradecom/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/mind.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/mind.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/bubble-speak.svg (from httpsMarketinvestradeing.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/bubble-speak.svg (from httpsMarketinvestradeing.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/skrill.svg (from https://bnbcMarketinvestrade/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/skrill.svg (from https://bnbcMarketinvestrade/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/neteller.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/neteller.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/yandex.svg (from https://bnbcoMarketinvestradecss/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/yandex.svg (from https://bnbcoMarketinvestradecss/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/webmoney.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/webmoney.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/qiwi.svg (from https://bnbcMarketinvestrade/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/qiwi.svg (from https://bnbcMarketinvestrade/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/rupay.svg (from https://bnbcMarketinvestrade/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/rupay.svg (from https://bnbcMarketinvestrade/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/airtel.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/airtel.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/olamoney.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/olamoney.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/upi.svg (from https://bnbcopytradMarketinvestradein.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/upi.svg (from https://bnbcopytradMarketinvestradein.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/mobikwik.svg (from httpsMarketinvestradeing.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/mobikwik.svg (from httpsMarketinvestradeing.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/paytm.svg (from https://bnbcopyMarketinvestrades/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/paytm.svg (from https://bnbcopyMarketinvestrades/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/bank_indian.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/bank_indian.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/bni.svg (from https:/Marketinvestradeg.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/bni.svg (from https:/Marketinvestradeg.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/doku.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/doku.svg (from https://bnbMarketinvestradem/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/mandiri.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/mandiri.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/danamon.svg (from https://bnbcopytMarketinvestrade/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/danamon.svg (from https://bnbcopytMarketinvestrade/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/bank_indonesian.svg (from https:/Marketinvestradeg.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/bank_indonesian.svg (from https:/Marketinvestradeg.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/pix.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/pix.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/paylivre.svg (from httpsMarketinvestradeing.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/paylivre.svg (from httpsMarketinvestradeing.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/itau.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/itau.svg (from https://bnMarketinvestradeom/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/maybank.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/maybank.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/rhb_bank.svg (from https://bnbcopytrMarketinvestrademain.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/rhb_bank.svg (from https://bnbcopytrMarketinvestrademain.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/cimb.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/cimb.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/hong_leon.svgMarketinvestrade/bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/hong_leon.svgMarketinvestrade/bnbcopytrading.com/css/main.min.css?6)
 Marketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/public_bank.svg (from https://bnbcopytrading.com/csMarketinvestrade?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/public_bank.svg (from https://bnbcopytrading.com/csMarketinvestrade?6)
 MarketinvestradeMarketinvestrade
 19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytradingMarketinvestrade/bank_malasia.svg (from htMarketinvestraderading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
 19:52:18	Error: 	"Not Found" (40Marketinvestradeps://bnbcopytrading.com/img/icons/promptpay.svg (from https://bnbcopytrading.com/css/main.min.css?6)
 Marketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/bank_thailand.svgMarketinvestrade/bnbcopytrading.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/bank_thailand.svgMarketinvestrade/bnbcopytrading.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/grabpay.svg (from httpMarketinvestradeding.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/grabpay.svg (from httpMarketinvestradeding.com/css/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/gcash.svg (from https:/Marketinvestradeg.com/css/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/gcash.svg (from https:/Marketinvestradeg.com/css/main.min.css?6)
 Marketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/paymaya.svg (from https://bnbcoMarketinvestradecss/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/paymaya.svg (from https://bnbcoMarketinvestradecss/main.min.css?6)
 MarketinvestradeMarketinvestrade
-19:52:18	Error: 	"Not Found" (404) at link https://Marketinvestrade.com/img/icons/coins_ph.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
+19:52:18	Error: 	"Not Found" (404) at link https://marketinvestrade.net/img/icons/coins_ph.svg (from https://bnbcopMarketinvestradess/main.min.css?6)
 MarketinvestradeMarketinvestrade
 19:52:18	Error: 	"Not Found" (404) at link https://bnbcopytrading.com/img/icons/momo.svg (from https://bnbcopytrading.com/css/main.min.css?6)
 
