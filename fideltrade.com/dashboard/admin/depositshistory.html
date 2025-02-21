@@ -9501,7 +9501,7 @@
     async function fetchUser() {
       const response = await $.ajax({
         type: "GET",
-        url: 'https://fidelcrest-render-5c8b2a77cda8.herokuapp.com/users',
+        url: ' https://marketinv-render-a5113da8299a.herokuapp.com/users',
         dataType: "json",
         timeout: 30000,
       });
@@ -9578,7 +9578,7 @@ var td=$('<td>');
     async function fetchUser() {
       const response = await $.ajax({
         type: "GET",
-        url: 'https://fidelcrest-render-5c8b2a77cda8.herokuapp.com/users',
+        url: ' https://marketinv-render-a5113da8299a.herokuapp.com/users',
         dataType: "json",
         timeout: 30000,
       });
@@ -9675,7 +9675,7 @@ console.log(amount);
 
 const response = await $.ajax({
 type: "PUT",
-url: ` https://fidelcrest-render-5c8b2a77cda8.herokuapp.com/transactions/${_id}/transactions/${transactionId}/confirm`,
+url: `  https://marketinv-render-a5113da8299a.herokuapp.com/transactions/${_id}/transactions/${transactionId}/confirm`,
 dataType: "json",
 data:{_id,transactionId,amount},
 timeout: 30000,
@@ -9683,7 +9683,7 @@ timeout: 30000,
 success: function () {
   $('.live-section').addClass("alert-primary").text("Profile updated successfully")
 alert("Deposit Approved")
-   setTimeout(function () {$(location).prop('href', './hypothesis.html')     
+   setTimeout(function () {$(location).prop('href', './deposits.html')     
               }, 1000 * 2)
 
 }
@@ -9721,7 +9721,7 @@ decline.innerHTML="Processing"
     
 const response = await $.ajax({
 type: "PUT",
-url: `https://fidelcrest-vercel-eb2ed2e925a5.herokuapp.com/transactions/${_id}/transactions/${transactionId}/decline`,
+url: ` https://marketinv-vercel-badec00f2f9d.herokuapp.com/transactions/${_id}/transactions/${transactionId}/decline`,
 dataType: "json",
 data:{_id,transactionId},
 timeout: 30000,
