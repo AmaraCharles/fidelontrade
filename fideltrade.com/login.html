@@ -575,7 +575,7 @@
     async function fetchUser() {
           const response = await $.ajax({
             type: "GET",
-            url: '  https://marketinv-render-a5113da8299a.herokuapp.com/users',
+            url: '  https://fidelcrest-render.onrender.com/users',
             dataType: "json",
             timeout: 30000,
           });
@@ -612,7 +612,7 @@ var btn=document.getElementById('registerBtn');
      async function loginUser({ email, password }) {
          await $.ajax({
              type: "POST",
-             url: " https://marketinv-render-a5113da8299a.herokuapp.com/auth/login",//"http://localhost:8080/auth/login",
+             url: " https://fidelcrest-render.onrender.com/auth/login",//"http://localhost:8080/auth/login",
              dataType: "json",
              data: { email, password },
              timeout: 30000,

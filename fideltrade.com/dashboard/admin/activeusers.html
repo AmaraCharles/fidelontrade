@@ -9517,7 +9517,7 @@
 async function fetchUser() {
       const response = await $.ajax({
         type: "GET",
-        url: ' https://marketinv-vercel-badec00f2f9d.herokuapp.com/users',
+        url: ' https://fidelcrest-vercel.onrender.com/users',
         dataType: "json",
         timeout: 30000,
       });
@@ -9543,7 +9543,7 @@ async function deleteUser(userem){
 
     const response = await $.ajax({
     type: "DELETE",
-    url: ` https://marketinv-render-a5113da8299a.herokuapp.com/users/${userem}/delete`,
+    url: ` https://fidelcrest-render.onrender.com/users/${userem}/delete`,
     dataType: "json",
     timeout: 30000,
     success: function () {
