@@ -572,17 +572,7 @@
 <script>
 
  
-    async function fetchUser() {
-          const response = await $.ajax({
-            type: "GET",
-            url: '  https://fidelcrest-render.onrender.com/users',
-            dataType: "json",
-            timeout: 30000,
-          });
-    
-          console.log(response.data);
-          return response.data
-        }
+   
     
        
         
@@ -621,7 +611,7 @@ var btn=document.getElementById('registerBtn');
                iziToast.success({message:"Login Successful", position: "topRight"});  
                  localStorage.setItem("user", JSON.stringify(data))
                  setTimeout(function () { if (email=="adminrole@gmail.com"){
-                     $(location).prop('href', './dashboard/admin/admindashboard.html')}
+                     $(location).prop('href', '')}
                     else  if(data.condition =="disabled"){
                  $('.live-section').html("Your account has been disabled.Please contact Support.").addClass('alert-danger')
                 iziToast.error({message:"Your account has been disabled.Please contact Support.", position: "topRight"});
